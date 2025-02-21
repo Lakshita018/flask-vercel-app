@@ -52,6 +52,6 @@ def home():
     return "<h1>Lying AI Chatbot</h1><p>Send a POST request to /chat with a JSON message.</p>"
 
 if __name__ == '__main__':
-    app.run(debug=True)   steps to host this code on vercel
+    app.run(debug=True)   
 
 
